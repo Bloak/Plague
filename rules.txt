@@ -1,0 +1,14 @@
+Plague is a 2-player chess game.
+
+Players take turns to move. 
+In your turn, you have 3 steps. 
+You can spend x step for a move of x distance from your occupied spots. 
+Moves in this turn do not count as occupied spots. 
+You cannot go through your opponent’s spots when calculating distance. 
+You are not allowed to spend steps more than you have. 
+However, since your opponent cannot interrupt your operation during your turn, you are allowed to erase your temporary moves and get compensations. 
+Simply click on an empty spot to move or erase.
+
+Steps cannot be saved to the next turn. However, the second player has an extra step which is kept until used.
+
+When the board is fully occupied by players, game ends. The player who occupies more spots is the winner.
